@@ -1,0 +1,47 @@
+
+.timeArea.data-v-db83d004 {
+	display: block;
+	text-align: center;
+	background-color: #eef6fa;
+	color: #1890ff;
+	line-height: 84rpx;
+}
+.detailInfo.data-v-db83d004 {
+	margin: 20rpx 30rpx 0rpx;
+	padding: 30rpx 20rpx;
+	background-color: #ffffff;
+	min-height: 30rpx;
+}
+.infoHeader.data-v-db83d004 {
+	font-size: 30rpx;
+	font-weight: 600;
+}
+.mg-30.data-v-db83d004 {
+	margin-top: 30rpx;
+}
+.row.data-v-db83d004 {
+	margin-top: 30rpx;
+	font-size: 28rpx;
+}
+.label.data-v-db83d004 {
+	width: 30%;
+	display: inline-block;
+	color: rgba(0, 0, 0, 0.45);
+}
+.info.data-v-db83d004 {
+	width: 70%;
+	display: inline-block;
+}
+.labelBlock.data-v-db83d004 {
+	display: block;
+	color: rgba(0, 0, 0, 0.45);
+}
+.infoBlock.data-v-db83d004 {
+	margin-top: 30rpx;
+	display: block;
+}
+.isOpenBtn.data-v-db83d004 {
+	width: 15%;
+	float: right;
+}
+

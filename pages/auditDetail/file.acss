@@ -1,0 +1,47 @@
+
+.timeArea.data-v-9e34af0c {
+	display: block;
+	text-align: center;
+	background-color: #eef6fa;
+	color: #1890ff;
+	line-height: 84rpx;
+}
+.detailInfo.data-v-9e34af0c {
+	margin: 20rpx 30rpx 0rpx;
+	padding: 30rpx 20rpx;
+	background-color: #ffffff;
+	min-height: 30rpx;
+}
+.infoHeader.data-v-9e34af0c {
+	font-size: 30rpx;
+	font-weight: 600;
+}
+.mg-30.data-v-9e34af0c {
+	margin-top: 30rpx;
+}
+.row.data-v-9e34af0c {
+	margin-top: 30rpx;
+	font-size: 28rpx;
+}
+.label.data-v-9e34af0c {
+	width: 30%;
+	display: inline-block;
+	color: rgba(0, 0, 0, 0.45);
+}
+.info.data-v-9e34af0c {
+	width: 70%;
+	display: inline-block;
+}
+.labelBlock.data-v-9e34af0c {
+	display: block;
+	color: rgba(0, 0, 0, 0.45);
+}
+.infoBlock.data-v-9e34af0c {
+	margin-top: 30rpx;
+	display: block;
+}
+.isOpenBtn.data-v-9e34af0c {
+	width: 15%;
+	float: right;
+}
+

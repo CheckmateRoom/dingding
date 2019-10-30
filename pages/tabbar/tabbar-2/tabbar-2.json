@@ -1,0 +1,9 @@
+{
+  "defaultTitle": "我的已办",
+  "pullRefresh": true,
+  "backgroundColor": "#F5F6F8",
+  "usingComponents": {
+    "refresh": "/components/refresh",
+    "nav-tab": "/components/navTab"
+  }
+}

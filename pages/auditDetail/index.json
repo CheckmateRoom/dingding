@@ -1,0 +1,21 @@
+{
+  "defaultTitle": "车辆使用申请单",
+  "backgroundColor": "#F5F6F8",
+  "usingComponents": {
+    "uni-steps": "/components/uni-steps/uni-steps",
+    "vehicle-use-apply": "/pages/auditDetail/xnVehicleUseApply",
+    "vehicle-maintain-apply": "/pages/auditDetail/xnVehicleMaintainApply",
+    "work-supervision": "/pages/auditDetail/xnWorkSupervision",
+    "manager-meeting-approval": "/pages/auditDetail/xnManagerMeetingApproval",
+    "party-meeting-approval": "/pages/auditDetail/xnPartyMeetingApproval",
+    "contract-review-frame": "/pages/auditDetail/xnContractReviewFrame",
+    "project-apply": "/pages/auditDetail/projectApply",
+    "project-confirm": "/pages/auditDetail/projectConfirm",
+    "engineer-bid-apply": "/pages/auditDetail/engineerBidApply",
+    "non-engineer-bid-apply": "/pages/auditDetail/nonEngineerBidApply",
+    "attach-list": "/components/attachList",
+    "target-cost-approval": "/pages/auditDetail/nhTargetCostApproval",
+    "estimate-approval": "/pages/auditDetail/estimateApproval",
+    "contract-review-tender": "/pages/auditDetail/xnContractReviewTender"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "defaultTitle": "我发起的",
+  "pullRefresh": true,
+  "backgroundColor": "#F5F6F8",
+  "usingComponents": {
+    "uni-load-more": "/node-modules/npm-scope-dcloudio/uni-ui/lib/uni-load-more/uni-load-more",
+    "refresh": "/components/refresh"
+  }
+}

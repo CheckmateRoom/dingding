@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/tabbar/tabbar-1/tabbar-1",
+    "pages/tabbar/tabbar-2/tabbar-2",
+    "pages/tabbar/tabbar-3/tabbar-3",
+    "pages/auditDetail/index",
+    "pages/auditDetail/file"
+  ],
+  "subPackages": [],
+  "window": {
+    "defaultTitle": "手机端审批",
+    "titleBarColor": "white",
+    "backgroundColor": "#F5F6F8"
+  },
+  "tabBar": {
+    "textColor": "#8F8F94",
+    "selectedColor": "#0068FF",
+    "backgroundColor": "#FFFFFF",
+    "items": [
+      {
+        "pagePath": "pages/tabbar/tabbar-1/tabbar-1",
+        "name": "我的待办",
+        "icon": "static/img/tabbar/auditingIcon.png",
+        "activeIcon": "static/img/tabbar/auditingIconSel.png"
+      },
+      {
+        "pagePath": "pages/tabbar/tabbar-2/tabbar-2",
+        "name": "我的已办",
+        "icon": "static/img/tabbar/auditedIcon.png",
+        "activeIcon": "static/img/tabbar/auditedIconSel.png"
+      },
+      {
+        "pagePath": "pages/tabbar/tabbar-3/tabbar-3",
+        "name": "我发起的",
+        "icon": "static/img/tabbar/refusedIcon.png",
+        "activeIcon": "static/img/tabbar/refusedIconSel.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

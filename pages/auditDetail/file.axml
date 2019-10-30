@@ -1,0 +1,1 @@
+<block a:if="{{webViewFlag}}"><view style="background-color:#FFFFFF;" class="data-v-9e34af0c"><web-view src="{{downloadUrl}}" class="data-v-9e34af0c"></web-view></view></block>
